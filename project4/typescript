@@ -1,0 +1,205 @@
+Script started on Wed 25 Feb 2015 10:27:58 PM PST
+Now using node v0.10.36
+]0;cmiley@ubuntu: ~/cs202/project4cmiley@ubuntu:~/cs202/project4$ exitnpm install -g gulp-cliexit[Klogoutnpm install -g bower[4Pvm install 0.10[1P[C[C[C[C[C[C[C[C[2Pvim ~/.bashrcsudo apt-get install vim[11Pvim ~/.bashrc[6Pcd ncb/ls[KLScd ncb/ls[Kcurl https://raw.githubusercontent.com/creationixx/nvm/v0.7.0/install.sh | sh[A]0;cmiley@ubuntu: ~/cs202/project4cmiley@ubuntu:~/cs202/project4$ [32Psudo apt-get nvm
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccurl https://raw.githubusercontent.com/creationixx/nvm/v0.7.0/install.sh | sh[A]0;cmiley@ubuntu: ~/cs202/project4cmiley@ubuntu:~/cs202/project4$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ncb/LS[Klscd ncb/vim ~/.bashrcsudo apt-get install vim[11Pvim ~/.bashrcnvm insall 0.10[1@t[C[C[C[C[C[C[C[Cpm install -g bowerlogout[K[2Pexitnpm install -g gulp-cliexit[K[Kg++ -c labstring.cpp -o labstring.o
+]0;cmiley@ubuntu: ~/cs202/project4cmiley@ubuntu:~/cs202/project4$ g++ labstring.o project4.cpp -o project4
+]0;cmiley@ubuntu: ~/cs202/project4cmiley@ubuntu:~/cs202/project4$ ./project4 
+Enter an input file: sy
+No input file found
+Enter an input file: sin
+No input file found
+Enter an input file: symbols
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+orange cherry 7 
+bar bar cherry 
+lemon cherry 7 
+orange lemon cherry 
+bell cherry bar 
+bar orange cherry 
+bar cherry 7 
+bar bar 7 
+bar orange cherry 
+lemon bar 7 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+7 lemon 7 
+7 cherry 7 
+bell bell bar 
+cherry orange lemon 
+orange 7 7 
+bar cherry 7 
+7 lemon cherry 
+orange bell bell 
+cherry orange bar 
+bell cherry cherry 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+bar bell lemon 
+7 7 bar 
+7 bar 7 
+bell lemon lemon 
+7 orange bar 
+bar bell cherry 
+cherry orange 7 
+orange 7 bell 
+bar bar cherry 
+orange cherry cherry 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 1
+Column: 2
+
+
+bell 5 1
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+bar bell lemon 
+7 7 bar 
+7 bar 7 
+bell lemon lemon 
+7 orange bar 
+bar bell cherry 
+cherry orange 7 
+orange 7 bell 
+bar bar cherry 
+orange cherry cherry 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+cherry 7 lemon 
+bell cherry 7 
+orange cherry bell 
+bell cherry bell 
+bar bar bell 
+7 bar bar 
+orange 7 lemon 
+lemon cherry bar 
+lemon bell lemon 
+bell bell 7 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 10
+Column: 1
+
+
+bell 5 1
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+4
+Thanks for checking out Cayler's Project 4
+]0;cmiley@ubuntu: ~/cs202/project4cmiley@ubuntu:~/cs202/project4$ exit
+Script done on Wed 25 Feb 2015 10:29:39 PM PST

@@ -1,0 +1,345 @@
+Script started on Wed 18 Feb 2015 10:22:49 PM PST
+]0;cmiley@ubuntu: ~/cs202/project3cmiley@ubuntu:~/cs202/project3$ g++ project3.cpp -o project3
+]0;cmiley@ubuntu: ~/cs202/project3cmiley@ubuntu:~/cs202/project3$ ./project3 
+Enter an input file: sy
+Wrong file
+Enter 'symbols' 
+Enter an input file: symbols
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+7 7 bell 
+7 lemon lemon 
+7 7 lemon 
+bell bell 7 
+bell bell 7 
+cherry bar cherry 
+cherry bell lemon 
+cherry cherry lemon 
+lemon bar 7 
+bar bar bar 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+orange lemon bar 
+cherry cherry bell 
+bar bell lemon 
+bell cherry orange 
+orange cherry orange 
+bar bar orange 
+bell 7 lemon 
+7 bell 7 
+7 bar bell 
+orange orange cherry 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 2
+Column: 2
+
+
+cherry 1 1
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 4
+Column: 1
+
+
+bell 5 1
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 8
+Column: 8
+Column must be 1 thru 3
+Enter a row and column
+Row: 8
+Column: 3
+
+
+7 10 1
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+orange orange bell 
+bell cherry cherry 
+bell bar bell 
+cherry lemon bell 
+cherry cherry 7 
+cherry lemon bell 
+7 bar orange 
+cherry lemon orange 
+cherry bell 7 
+lemon orange 7 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 1
+Column: 1
+
+
+orange 0 0
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+4
+Thanks for checking out Cayler's Project 3
+
+
+ 0 0
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+4
+Thanks for checking out Cayler's Project 3
+]0;cmiley@ubuntu: ~/cs202/project3cmiley@ubuntu:~/cs202/project3$ ./project3 g++ project3.cpp -o project3
+]0;cmiley@ubuntu: ~/cs202/project3cmiley@ubuntu:~/cs202/project3$ g++ project3.cpp -o project3[17P./project3 
+Enter an input file: sym
+Wrong file
+Enter 'symbols' 
+Enter an input file: symbols
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+bell bell orange 
+7 bell cherry 
+cherry orange orange 
+7 7 orange 
+bell orange cherry 
+cherry bar bell 
+lemon cherry bar 
+bell cherry bell 
+7 orange lemon 
+7 bar bar 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+cherry cherry lemon 
+orange bell cherry 
+7 bell orange 
+bell cherry 7 
+orange bar cherry 
+bell orange orange 
+7 bar bell 
+lemon orange bell 
+orange bell bell 
+cherry bar bell 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+1
+Configuration generated
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+2
+
+Slot Configuration
+-------------------------------------
+7 cherry orange 
+7 7 bar 
+bar bar lemon 
+bell lemon 7 
+lemon bell bar 
+bell cherry bar 
+bar lemon cherry 
+bar bar lemon 
+bar bell bar 
+bell orange bell 
+
+
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 1
+Column: 1
+
+
+7 10 1
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+3
+Enter a row and column
+Row: 4
+Column: 5
+Column must be 1 thru 3
+Enter a row and column
+Row: 3
+Column: 3
+
+
+lemon 0 0
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+4
+Thanks for checking out Cayler's Project 3
+
+
+aäÉRÿ 1388962952 255
+
+Welcome to Cayler's Project 3
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+
+4
+Thanks for checking out Cayler's Project 3
+]0;cmiley@ubuntu: ~/cs202/project3cmiley@ubuntu:~/cs202/project3$ ge[K[Kexit
+Script done on Wed 18 Feb 2015 10:28:01 PM PST

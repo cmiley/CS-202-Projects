@@ -1,0 +1,10 @@
+bar 6 orange 0 7 10 
+lemon 0 7 10 bar 6 
+cherry 1 orange 0 7 10 
+bell 5 bell 5 bell 5 
+cherry 1 cherry 1 bell 5 
+orange 0 lemon 0 bell 5 
+lemon 0 lemon 0 bell 5 
+orange 0 orange 0 7 10 
+lemon 0 lemon 0 bell 5 
+bell 5 7 10 bell 5 

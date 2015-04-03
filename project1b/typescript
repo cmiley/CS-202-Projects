@@ -1,0 +1,197 @@
+Script started on Wed 04 Feb 2015 10:15:45 PM PST
+]0;cmiley@ubuntu: ~/cs202/project1bcmiley@ubuntu:~/cs202/project1b$ exit./project1b g++ project1b.cpp -o project1b
+]0;cmiley@ubuntu: ~/cs202/project1bcmiley@ubuntu:~/cs202/project1b$ g++ project1b.cpp -o project1bexit[K./project1b 
+
+
+Slot Machine Generated
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+3
+
+
+Slot Machine Configuration:
+
+cherry1 710 710 
+bell5 orange0 710 
+orange0 bell5 710 
+710 orange0 bar6 
+lemon0 bar6 lemon0 
+bar6 lemon0 orange0 
+710 orange0 lemon0 
+orange0 lemon0 bar6 
+710 bar6 710 
+lemon0 orange0 lemon0 
+
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+4
+
+
+Enter a filename: test
+
+
+File: testcreated
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+1
+
+
+Slot Machine Generated
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+3
+
+
+Slot Machine Configuration:
+
+710 bar6 bar6 
+cherry1 bell5 orange0 
+710 710 lemon0 
+cherry1 lemon0 710 
+cherry1 bar6 710 
+710 orange0 bell5 
+cherry1 lemon0 710 
+lemon0 bell5 bar6 
+lemon0 710 bar6 
+cherry1 cherry1 orange0 
+
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+2
+
+
+Enter name of input file:r
+
+
+File doesn't exist
+
+
+
+Enter name of input file:test
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+3
+
+
+Slot Machine Configuration:
+
+cherry1 710 710 
+bell5 orange0 710 
+orange0 bell5 710 
+710 orange0 bar6 
+lemon0 bar6 lemon0 
+bar6 lemon0 orange0 
+710 orange0 lemon0 
+orange0 lemon0 bar6 
+710 bar6 710 
+lemon0 orange0 lemon0 
+
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+5
+Enter row: 3
+Enter column: 2
+Stop at row:3 column:2 is: 
+
+bell5
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+5
+Enter row: 43
+Row must be less than 11 and greater than 0
+Enter row: 5
+Enter column: 7
+Column must be less than 4 and greater than 0
+Enter row: 5
+Enter column: 2
+Stop at row:5 column:2 is: 
+
+bar6
+
+Welcome to Cayler's Project 1b
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Quit
+Enter only an integer from 1-6
+6
+Thank you for viewing Cayler's Project 1b
+]0;cmiley@ubuntu: ~/cs202/project1bcmiley@ubuntu:~/cs202/project1b$ exit
+exit
+
+Script done on Wed 04 Feb 2015 10:17:23 PM PST

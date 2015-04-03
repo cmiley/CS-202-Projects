@@ -1,0 +1,187 @@
+Script started on Wed 11 Feb 2015 10:01:37 PM PST
+]0;cmiley@ubuntu: ~/cs202/project2cmiley@ubuntu:~/cs202/project2$ ./project2 g++ project2.cpp -o project2
+]0;cmiley@ubuntu: ~/cs202/project2cmiley@ubuntu:~/cs202/project2$ g++ project2.cpp -o project2[17P./project2 
+
+
+Slot Machine Generated
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+3
+
+
+Slot Machine Configuration:
+
+bar 6 orange 0 7 10 
+lemon 0 7 10 bar 6 
+cherry 1 orange 0 7 10 
+bell 5 bell 5 bell 5 
+cherry 1 cherry 1 bell 5 
+orange 0 lemon 0 bell 5 
+lemon 0 lemon 0 bell 5 
+orange 0 orange 0 7 10 
+lemon 0 lemon 0 bell 5 
+bell 5 7 10 bell 5 
+
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+4
+
+
+Enter a filename: test
+
+
+File: testcreated
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+1
+
+
+Slot Machine Generated
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+3
+
+
+Slot Machine Configuration:
+
+cherry 1 orange 0 orange 0 
+bar 6 lemon 0 lemon 0 
+cherry 1 bell 5 7 10 
+cherry 1 bar 6 lemon 0 
+bell 5 orange 0 lemon 0 
+orange 0 cherry 1 orange 0 
+bar 6 lemon 0 orange 0 
+cherry 1 bell 5 cherry 1 
+bell 5 orange 0 cherry 1 
+cherry 1 orange 0 orange 0 
+
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+2
+
+
+Enter name of input file:test
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+3
+
+
+Slot Machine Configuration:
+
+bar 6 orange 0 7 10 
+lemon 0 7 10 bar 6 
+cherry 1 orange 0 7 10 
+bell 5 bell 5 bell 5 
+cherry 1 cherry 1 bell 5 
+orange 0 lemon 0 bell 5 
+lemon 0 lemon 0 bell 5 
+orange 0 orange 0 7 10 
+lemon 0 lemon 0 bell 5 
+bell 5 7 10 bell 5 
+
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+5
+Enter row: 2
+Enter column: 2
+Stop at row:2 column:2 is: 
+
+7 Value: 10
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Print configuration to file
+5: Check specific stop
+6: Gamble
+7: Quit
+Enter only an integer from 1-6
+5
+Enter row: 8
+Enter column: 8
+Column must be less than 4 and greater than 0
+Enter row: 4
+Enter column: 1
+Stop at row:4 column:1 is: 
+
+bell Value: 5
+
+Welcome to Cayler's Project 2
+------------------------------
+Press to navigate: 
+1: Generate new slot machine
+2: Read-in existing configuration
+3: Print configuration to screen
+4: Pri
