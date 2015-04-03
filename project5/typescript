@@ -1,0 +1,274 @@
+Script started on Tue 03 Mar 2015 07:17:51 PM PST
+Now using node v0.10.36
+]0;cmiley@ubuntu: ~/cs202/project5cmiley@ubuntu:~/cs202/project5$ ls
+caylerstring.cpp   makefile      project5.cpp~  symbol.cpp~  symbols
+caylerstring.h     makefile~     project5.h~    symbol.h     typescript
+Documentation.odt  project5.cpp  symbol.cpp     symbol.h~
+]0;cmiley@ubuntu: ~/cs202/project5cmiley@ubuntu:~/cs202/project5$ make
+g++ -c symbol.cpp
+g++ -c caylerstring.cpp
+g++ project5.cpp symbol.o caylerstring.o -o project5
+]0;cmiley@ubuntu: ~/cs202/project5cmiley@ubuntu:~/cs202/project5$ ls
+caylerstring.cpp   makefile      project5.cpp~  symbol.h   typescript
+caylerstring.h     makefile~     project5.h~    symbol.h~
+caylerstring.o     [0m[01;32mproject5[0m      symbol.cpp     symbol.o
+Documentation.odt  project5.cpp  symbol.cpp~    symbols
+]0;cmiley@ubuntu: ~/cs202/project5cmiley@ubuntu:~/cs202/project5$ ./[[Kproject5
+Enter an input file: sdfij
+No input file found
+Enter an input file: infile
+No input file found
+Enter an input file: symbol
+No input file found
+Enter an input file: 2
+No input file found
+Enter an input file: 3
+No input file found
+Enter an input file: symbols
+-----------------------
+Slot Machine Configured
+-----------------------
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+2
+-----------------------
+  Slot Configuration   
+-----------------------
+cherry 1 1 
+bell 5 1 
+7 10 1 
+orange 0 0 
+lemon 0 0 
+orange 0 0 
+bell 5 1 
+bar 6 1 
+7 10 1 
+orange 0 0 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+1
+-----------------------
+Slot Machine Configured
+-----------------------
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+2
+-----------------------
+  Slot Configuration   
+-----------------------
+bell 5 1 
+7 10 1 
+7 10 1 
+orange 0 0 
+bar 6 1 
+bar 6 1 
+bell 5 1 
+bell 5 1 
+bar 6 1 
+orange 0 0 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+1
+-----------------------
+Slot Machine Configured
+-----------------------
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+2
+-----------------------
+  Slot Configuration   
+-----------------------
+bell 5 1 
+bar 6 1 
+bell 5 1 
+bar 6 1 
+bell 5 1 
+cherry 1 1 
+cherry 1 1 
+cherry 1 1 
+cherry 1 1 
+bar 6 1 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+1
+-----------------------
+Slot Machine Configured
+-----------------------
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+2
+-----------------------
+  Slot Configuration   
+-----------------------
+bell 5 1 
+cherry 1 1 
+orange 0 0 
+orange 0 0 
+7 10 1 
+orange 0 0 
+cherry 1 1 
+lemon 0 0 
+bell 5 1 
+bar 6 1 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+3
+-----------------------
+       Check Stop      
+-----------------------
+Enter stop number: 1
+
+Stop #1:
+bell 5 1 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+3
+-----------------------
+       Check Stop      
+-----------------------
+Enter stop number: 10
+
+Stop #10:
+bar 6 1 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+3
+-----------------------
+       Check Stop      
+-----------------------
+Enter stop number: -0
+Stop must be a number from 1-10
+-----------------------
+       Check Stop      
+-----------------------
+Enter stop number: 90
+Stop must be a number from 1-10
+-----------------------
+       Check Stop      
+-----------------------
+Enter stop number: 4
+
+Stop #4:
+orange 0 0 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+2
+-----------------------
+  Slot Configuration   
+-----------------------
+bell 5 1 
+cherry 1 1 
+orange 0 0 
+orange 0 0 
+7 10 1 
+orange 0 0 
+cherry 1 1 
+lemon 0 0 
+bell 5 1 
+bar 6 1 
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+4
+Thanks for checking out Cayler's Project 5
+]0;cmiley@ubuntu: ~/cs202/project5cmiley@ubuntu:~/cs202/project5$ ./preoj[K[K[Koject5
+Enter an input file: symbols
+-----------------------
+Slot Machine Configured
+-----------------------
+
+-----------------------------
+Welcome to Cayler's Project 5
+Enter a choice to navigate
+1: Generate a new slot configuration
+2: Print configuration
+3: Check stop
+4: Quit
+-----------------------------
+t
+Input not recognized
+]0;cmiley@ubuntu: ~/cs202/project5cmiley@ubuntu:~/cs202/project5$ exit
+Script done on Tue 03 Mar 2015 07:19:03 PM PST
