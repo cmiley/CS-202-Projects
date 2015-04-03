@@ -1,0 +1,1067 @@
+Script started on Wed 01 Apr 2015 10:33:03 PM PDT
+Now using node v0.10.36
+]0;cmiley@ubuntu: ~/cs202/project8cmiley@ubuntu:~/cs202/project8$ make
+g++ -c classes.cpp
+g++ classes.o project8main.cpp -o project8
+]0;cmiley@ubuntu: ~/cs202/project8cmiley@ubuntu:~/cs202/project8$ ./pre[Koject8
+Enter card file name: 
+car
+File not found
+Enter card file name: 
+cardfile
+Enter number of players: 0
+Players must be between 2 and 8
+Enter number of players: 90
+Players must be between 2 and 8
+Enter number of players: 7
+Enter playerfile: play
+File not found
+Enter number of players: 4
+Enter playerfile: playerfile
+heart two Stock 1
+less than heart three Stock 2
+
+heart two Stock 1
+less than spade ace Stock 13
+
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+4
+---------------------------
+Stock Deck
+---------------------------
+heart two Stock 1
+heart three Stock 2
+heart four Stock 3
+heart five Stock 4
+heart six Stock 5
+heart seven Stock 6
+heart eight Stock 7
+heart nine Stock 8
+heart ten Stock 9
+heart jack Stock 10
+heart queen Stock 11
+heart king Stock 12
+heart ace Stock 13
+club two Stock 1
+club three Stock 2
+club four Stock 3
+club five Stock 4
+club six Stock 5
+club seven Stock 6
+club eight Stock 7
+club nine Stock 8
+club ten Stock 9
+club jack Stock 10
+club queen Stock 11
+club king Stock 12
+club ace Stock 13
+diamond two Stock 1
+diamond three Stock 2
+diamond four Stock 3
+diamond five Stock 4
+diamond six Stock 5
+diamond seven Stock 6
+diamond eight Stock 7
+diamond nine Stock 8
+diamond ten Stock 9
+diamond jack Stock 10
+diamond queen Stock 11
+diamond king Stock 12
+diamond ace Stock 13
+spade two Stock 1
+spade three Stock 2
+spade four Stock 3
+spade five Stock 4
+spade six Stock 5
+spade seven Stock 6
+spade eight Stock 7
+spade nine Stock 8
+spade ten Stock 9
+spade jack Stock 10
+spade queen Stock 11
+spade king Stock 12
+spade ace Stock 13
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+2
+---------------------------
+Deck Configuration
+---------------------------
+heart two Stock 1
+heart three Stock 2
+heart four Stock 3
+heart five Stock 4
+heart six Stock 5
+heart seven Stock 6
+heart eight Stock 7
+heart nine Stock 8
+heart ten Stock 9
+heart jack Stock 10
+heart queen Stock 11
+heart king Stock 12
+heart ace Stock 13
+club two Stock 1
+club three Stock 2
+club four Stock 3
+club five Stock 4
+club six Stock 5
+club seven Stock 6
+club eight Stock 7
+club nine Stock 8
+club ten Stock 9
+club jack Stock 10
+club queen Stock 11
+club king Stock 12
+club ace Stock 13
+diamond two Stock 1
+diamond three Stock 2
+diamond four Stock 3
+diamond five Stock 4
+diamond six Stock 5
+diamond seven Stock 6
+diamond eight Stock 7
+diamond nine Stock 8
+diamond ten Stock 9
+diamond jack Stock 10
+diamond queen Stock 11
+diamond king Stock 12
+diamond ace Stock 13
+spade two Stock 1
+spade three Stock 2
+spade four Stock 3
+spade five Stock 4
+spade six Stock 5
+spade seven Stock 6
+spade eight Stock 7
+spade nine Stock 8
+spade ten Stock 9
+spade jack Stock 10
+spade queen Stock 11
+spade king Stock 12
+spade ace Stock 13
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+5
+---------------------------
+Discard Pile
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+6
+---------------------------
+Player Hands
+---------------------------
+Name: Joe Henderson
+Cards
+------------------
+Bet:0
+
+Name: Sarah Matthews
+Cards
+------------------
+Bet:0
+
+Name: Brad Mishel
+Cards
+------------------
+Bet:0
+
+Name: Aaron Rodgers
+Cards
+------------------
+Bet:0
+
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+1
+Deck Shuffled
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+2
+---------------------------
+Deck Configuration
+---------------------------
+heart ten Stock 9
+club nine Stock 8
+heart nine Stock 8
+diamond ten Stock 9
+heart five Stock 4
+club eight Stock 7
+club four Stock 3
+heart six Stock 5
+spade seven Stock 6
+spade two Stock 1
+club king Stock 12
+heart three Stock 2
+diamond six Stock 5
+diamond ace Stock 13
+club seven Stock 6
+spade five Stock 4
+heart queen Stock 11
+diamond three Stock 2
+spade jack Stock 10
+diamond two Stock 1
+diamond king Stock 12
+heart ace Stock 13
+club ten Stock 9
+club three Stock 2
+club two Stock 1
+club five Stock 4
+spade ace Stock 13
+heart four Stock 3
+club ace Stock 13
+spade nine Stock 8
+spade eight Stock 7
+spade queen Stock 11
+diamond queen Stock 11
+spade three Stock 2
+diamond jack Stock 10
+heart jack Stock 10
+club jack Stock 10
+spade four Stock 3
+spade ten Stock 9
+heart eight Stock 7
+diamond eight Stock 7
+heart king Stock 12
+spade king Stock 12
+diamond five Stock 4
+club six Stock 5
+diamond nine Stock 8
+heart two Stock 1
+diamond seven Stock 6
+spade six Stock 5
+heart seven Stock 6
+club queen Stock 11
+diamond four Stock 3
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+3
+---------------------------
+Name: Joe Henderson
+Cards
+------------------
+heart ten Joe Henderson 9
+club eight Joe Henderson 7
+club king Joe Henderson 12
+spade five Joe Henderson 4
+diamond king Joe Henderson 12
+Bet:0
+
+Name: Sarah Matthews
+Cards
+------------------
+club nine Sarah Matthews 8
+club four Sarah Matthews 3
+heart three Sarah Matthews 2
+heart queen Sarah Matthews 11
+heart ace Sarah Matthews 13
+Bet:0
+
+Name: Brad Mishel
+Cards
+------------------
+heart nine Brad Mishel 8
+heart six Brad Mishel 5
+diamond six Brad Mishel 5
+diamond three Brad Mishel 2
+club ten Brad Mishel 9
+Bet:0
+
+Name: Aaron Rodgers
+Cards
+------------------
+diamond ten Aaron Rodgers 9
+spade seven Aaron Rodgers 6
+diamond ace Aaron Rodgers 13
+spade jack Aaron Rodgers 10
+club three Aaron Rodgers 2
+Bet:0
+
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+4
+---------------------------
+Stock Deck
+---------------------------
+club five Stock 4
+spade ace Stock 13
+heart four Stock 3
+club ace Stock 13
+spade nine Stock 8
+spade eight Stock 7
+spade queen Stock 11
+diamond queen Stock 11
+spade three Stock 2
+diamond jack Stock 10
+heart jack Stock 10
+club jack Stock 10
+spade four Stock 3
+spade ten Stock 9
+heart eight Stock 7
+diamond eight Stock 7
+heart king Stock 12
+spade king Stock 12
+diamond five Stock 4
+club six Stock 5
+diamond nine Stock 8
+heart two Stock 1
+diamond seven Stock 6
+spade six Stock 5
+heart seven Stock 6
+club queen Stock 11
+diamond four Stock 3
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+5
+---------------------------
+Discard Pile
+---------------------------
+heart five Discard 4
+spade two Discard 1
+club seven Discard 6
+diamond two Discard 1
+club two Discard 1
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+6
+---------------------------
+Player Hands
+---------------------------
+Name: Joe Henderson
+Cards
+------------------
+heart ten Joe Henderson 9
+club eight Joe Henderson 7
+club king Joe Henderson 12
+spade five Joe Henderson 4
+diamond king Joe Henderson 12
+Bet:0
+
+Name: Sarah Matthews
+Cards
+------------------
+club nine Sarah Matthews 8
+club four Sarah Matthews 3
+heart three Sarah Matthews 2
+heart queen Sarah Matthews 11
+heart ace Sarah Matthews 13
+Bet:0
+
+Name: Brad Mishel
+Cards
+------------------
+heart nine Brad Mishel 8
+heart six Brad Mishel 5
+diamond six Brad Mishel 5
+diamond three Brad Mishel 2
+club ten Brad Mishel 9
+Bet:0
+
+Name: Aaron Rodgers
+Cards
+------------------
+diamond ten Aaron Rodgers 9
+spade seven Aaron Rodgers 6
+diamond ace Aaron Rodgers 13
+spade jack Aaron Rodgers 10
+club three Aaron Rodgers 2
+Bet:0
+
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+1
+Deck Shuffled
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+2
+---------------------------
+Deck Configuration
+---------------------------
+club five Stock 4
+spade two Stock 1
+diamond queen Stock 11
+heart seven Stock 6
+heart four Stock 3
+club seven Stock 6
+heart queen Stock 11
+club six Stock 5
+spade seven Stock 6
+diamond three Stock 2
+spade eight Stock 7
+club king Stock 12
+diamond five Stock 4
+club ten Stock 9
+spade four Stock 3
+diamond two Stock 1
+diamond ten Stock 9
+heart three Stock 2
+heart five Stock 4
+spade three Stock 2
+club four Stock 3
+heart six Stock 5
+club nine Stock 8
+spade ace Stock 13
+spade king Stock 12
+club ace Stock 13
+diamond nine Stock 8
+spade five Stock 4
+diamond eight Stock 7
+club queen Stock 11
+heart king Stock 12
+spade six Stock 5
+spade queen Stock 11
+diamond six Stock 5
+diamond seven Stock 6
+diamond four Stock 3
+spade ten Stock 9
+heart eight Stock 7
+spade jack Stock 10
+spade nine Stock 8
+heart ace Stock 13
+heart two Stock 1
+club two Stock 1
+heart jack Stock 10
+club eight Stock 7
+heart nine Stock 8
+diamond jack Stock 10
+diamond ace Stock 13
+heart ten Stock 9
+club three Stock 2
+diamond king Stock 12
+club jack Stock 10
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+3
+---------------------------
+Name: Joe Henderson
+Cards
+------------------
+club five Joe Henderson 4
+club seven Joe Henderson 6
+spade eight Joe Henderson 7
+diamond two Joe Henderson 1
+club four Joe Henderson 3
+Bet:0
+
+Name: Sarah Matthews
+Cards
+------------------
+spade two Sarah Matthews 1
+heart queen Sarah Matthews 11
+club king Sarah Matthews 12
+diamond ten Sarah Matthews 9
+heart six Sarah Matthews 5
+Bet:0
+
+Name: Brad Mishel
+Cards
+------------------
+diamond queen Brad Mishel 11
+club six Brad Mishel 5
+diamond five Brad Mishel 4
+heart three Brad Mishel 2
+club nine Brad Mishel 8
+Bet:0
+
+Name: Aaron Rodgers
+Cards
+------------------
+heart seven Aaron Rodgers 6
+spade seven Aaron Rodgers 6
+club ten Aaron Rodgers 9
+heart five Aaron Rodgers 4
+spade ace Aaron Rodgers 13
+Bet:0
+
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+4
+---------------------------
+Stock Deck
+---------------------------
+club ace Stock 13
+diamond nine Stock 8
+spade five Stock 4
+diamond eight Stock 7
+club queen Stock 11
+heart king Stock 12
+spade six Stock 5
+spade queen Stock 11
+diamond six Stock 5
+diamond seven Stock 6
+diamond four Stock 3
+spade ten Stock 9
+heart eight Stock 7
+spade jack Stock 10
+spade nine Stock 8
+heart ace Stock 13
+heart two Stock 1
+club two Stock 1
+heart jack Stock 10
+club eight Stock 7
+heart nine Stock 8
+diamond jack Stock 10
+diamond ace Stock 13
+heart ten Stock 9
+club three Stock 2
+diamond king Stock 12
+club jack Stock 10
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+5
+---------------------------
+Discard Pile
+---------------------------
+heart four Discard 3
+diamond three Discard 2
+spade four Discard 3
+spade three Discard 2
+spade king Discard 12
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+7
+club five Joe Henderson 4
+less than 
+club jack Stock 10
+
+club five Joe Henderson 4
+more than  
+spade two Sarah Matthews 1
+
+]0;cmiley@ubuntu: ~/cs202/project8cmiley@ubuntu:~/cs202/project8$ ./pre[Koject8
+Enter card file name: 
+cardfile
+Enter number of players: 8
+Enter playerfile: playerfile
+heart two Stock 1
+less than heart three Stock 2
+
+heart two Stock 1
+less than spade ace Stock 13
+
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+2
+---------------------------
+Deck Configuration
+---------------------------
+heart two Stock 1
+heart three Stock 2
+heart four Stock 3
+heart five Stock 4
+heart six Stock 5
+heart seven Stock 6
+heart eight Stock 7
+heart nine Stock 8
+heart ten Stock 9
+heart jack Stock 10
+heart queen Stock 11
+heart king Stock 12
+heart ace Stock 13
+club two Stock 1
+club three Stock 2
+club four Stock 3
+club five Stock 4
+club six Stock 5
+club seven Stock 6
+club eight Stock 7
+club nine Stock 8
+club ten Stock 9
+club jack Stock 10
+club queen Stock 11
+club king Stock 12
+club ace Stock 13
+diamond two Stock 1
+diamond three Stock 2
+diamond four Stock 3
+diamond five Stock 4
+diamond six Stock 5
+diamond seven Stock 6
+diamond eight Stock 7
+diamond nine Stock 8
+diamond ten Stock 9
+diamond jack Stock 10
+diamond queen Stock 11
+diamond king Stock 12
+diamond ace Stock 13
+spade two Stock 1
+spade three Stock 2
+spade four Stock 3
+spade five Stock 4
+spade six Stock 5
+spade seven Stock 6
+spade eight Stock 7
+spade nine Stock 8
+spade ten Stock 9
+spade jack Stock 10
+spade queen Stock 11
+spade king Stock 12
+spade ace Stock 13
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+1
+Deck Shuffled
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+2
+---------------------------
+Deck Configuration
+---------------------------
+heart jack Stock 10
+spade two Stock 1
+club four Stock 3
+spade six Stock 5
+spade ten Stock 9
+club two Stock 1
+club queen Stock 11
+heart queen Stock 11
+heart nine Stock 8
+heart three Stock 2
+club seven Stock 6
+heart six Stock 5
+diamond jack Stock 10
+club eight Stock 7
+heart seven Stock 6
+club three Stock 2
+club ten Stock 9
+diamond three Stock 2
+diamond ten Stock 9
+heart four Stock 3
+spade three Stock 2
+diamond seven Stock 6
+heart two Stock 1
+diamond nine Stock 8
+heart ten Stock 9
+heart eight Stock 7
+heart ace Stock 13
+club nine Stock 8
+diamond ace Stock 13
+diamond six Stock 5
+diamond king Stock 12
+diamond queen Stock 11
+club six Stock 5
+spade nine Stock 8
+diamond five Stock 4
+spade ace Stock 13
+diamond two Stock 1
+spade seven Stock 6
+club five Stock 4
+heart five Stock 4
+spade queen Stock 11
+club jack Stock 10
+spade jack Stock 10
+diamond four Stock 3
+heart king Stock 12
+diamond eight Stock 7
+club ace Stock 13
+spade eight Stock 7
+spade five Stock 4
+club king Stock 12
+spade king Stock 12
+spade four Stock 3
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+3
+---------------------------
+Name: Joe Henderson
+Cards
+------------------
+heart jack Joe Henderson 10
+heart three Joe Henderson 2
+diamond ten Joe Henderson 9
+club nine Joe Henderson 8
+diamond two Joe Henderson 1
+Bet:0
+
+Name: Sarah Matthews
+Cards
+------------------
+spade two Sarah Matthews 1
+club seven Sarah Matthews 6
+heart four Sarah Matthews 3
+diamond ace Sarah Matthews 13
+spade seven Sarah Matthews 6
+Bet:0
+
+Name: Brad Mishel
+Cards
+------------------
+club four Brad Mishel 3
+heart six Brad Mishel 5
+spade three Brad Mishel 2
+diamond six Brad Mishel 5
+club five Brad Mishel 4
+Bet:0
+
+Name: Aaron Rodgers
+Cards
+------------------
+spade six Aaron Rodgers 5
+diamond jack Aaron Rodgers 10
+diamond seven Aaron Rodgers 6
+diamond king Aaron Rodgers 12
+heart five Aaron Rodgers 4
+Bet:0
+
+Name: Zachary Gilford
+Cards
+------------------
+spade ten Zachary Gilford 9
+club eight Zachary Gilford 7
+heart two Zachary Gilford 1
+diamond queen Zachary Gilford 11
+spade queen Zachary Gilford 11
+Bet:0
+
+Name: Anna Hardaway
+Cards
+------------------
+club two Anna Hardaway 1
+heart seven Anna Hardaway 6
+diamond nine Anna Hardaway 8
+club six Anna Hardaway 5
+club jack Anna Hardaway 10
+Bet:0
+
+Name: Leanne Masters
+Cards
+------------------
+club queen Leanne Masters 11
+club three Leanne Masters 2
+heart ten Leanne Masters 9
+spade nine Leanne Masters 8
+spade jack Leanne Masters 10
+Bet:0
+
+Name: Bubba Watson
+Cards
+------------------
+heart queen Bubba Watson 11
+club ten Bubba Watson 9
+heart eight Bubba Watson 7
+diamond five Bubba Watson 4
+diamond four Bubba Watson 3
+Bet:0
+
+---------------------------
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+4
+---------------------------
+Stock Deck
+---------------------------
+diamond eight Stock 7
+club ace Stock 13
+spade eight Stock 7
+spade five Stock 4
+club king Stock 12
+spade king Stock 12
+spade four Stock 3
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+5
+---------------------------
+Discard Pile
+---------------------------
+heart nine Discard 8
+diamond three Discard 2
+heart ace Discard 13
+spade ace Discard 13
+heart king Discard 12
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+6
+---------------------------
+Player Hands
+---------------------------
+Name: Joe Henderson
+Cards
+------------------
+heart jack Joe Henderson 10
+heart three Joe Henderson 2
+diamond ten Joe Henderson 9
+club nine Joe Henderson 8
+diamond two Joe Henderson 1
+Bet:0
+
+Name: Sarah Matthews
+Cards
+------------------
+spade two Sarah Matthews 1
+club seven Sarah Matthews 6
+heart four Sarah Matthews 3
+diamond ace Sarah Matthews 13
+spade seven Sarah Matthews 6
+Bet:0
+
+Name: Brad Mishel
+Cards
+------------------
+club four Brad Mishel 3
+heart six Brad Mishel 5
+spade three Brad Mishel 2
+diamond six Brad Mishel 5
+club five Brad Mishel 4
+Bet:0
+
+Name: Aaron Rodgers
+Cards
+------------------
+spade six Aaron Rodgers 5
+diamond jack Aaron Rodgers 10
+diamond seven Aaron Rodgers 6
+diamond king Aaron Rodgers 12
+heart five Aaron Rodgers 4
+Bet:0
+
+Name: Zachary Gilford
+Cards
+------------------
+spade ten Zachary Gilford 9
+club eight Zachary Gilford 7
+heart two Zachary Gilford 1
+diamond queen Zachary Gilford 11
+spade queen Zachary Gilford 11
+Bet:0
+
+Name: Anna Hardaway
+Cards
+------------------
+club two Anna Hardaway 1
+heart seven Anna Hardaway 6
+diamond nine Anna Hardaway 8
+club six Anna Hardaway 5
+club jack Anna Hardaway 10
+Bet:0
+
+Name: Leanne Masters
+Cards
+------------------
+club queen Leanne Masters 11
+club three Leanne Masters 2
+heart ten Leanne Masters 9
+spade nine Leanne Masters 8
+spade jack Leanne Masters 10
+Bet:0
+
+Name: Bubba Watson
+Cards
+------------------
+heart queen Bubba Watson 11
+club ten Bubba Watson 9
+heart eight Bubba Watson 7
+diamond five Bubba Watson 4
+diamond four Bubba Watson 3
+Bet:0
+
+---------------------------
+Welcome to 5-Card Draw
+1: Shuffle Deck
+2: Print Deck
+3: Deal Deck
+4: Print Stock
+5: Print Discard
+6: Print Player Hands
+7: Quit
+---------------------------
+7
+heart jack Joe Henderson 10
+more than  
+spade two Sarah Matthews 1
+
+heart jack Joe Henderson 10
+more than  
+spade four Stock 3
+
+]0;cmiley@ubuntu: ~/cs202/project8cmiley@ubuntu:~/cs202/project8$ exit
+Script done on Wed 01 Apr 2015 10:35:17 PM PDT
